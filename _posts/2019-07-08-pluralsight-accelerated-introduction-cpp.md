@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Accelerated Introduction to C++"
+title:  "[Pluralsight] Accelerated Introduction to C++"
 date:   2019-07-08 17:08:42 +0300
-tags: reviews programming videos
+tags: reviews programming videos pluralsight
 ---
  - **Title**: [Accelerated Introduction to C++][course]
  - **Author**: Dmitri Nesteruk
